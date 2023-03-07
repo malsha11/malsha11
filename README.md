@@ -22,9 +22,9 @@ I’m currently an **IT Undergraduate at the University of Sri Jayewardenepura.*
 - 💻 &nbsp; I love exploring new tech stack..
 - 📰 &nbsp; Reading blogs whenever possible.
 - 🍕 &nbsp; Social works ,volunteering, meetups & tech events.
+<br>
 
-
-##🌐 Connect with me: 
+## 🌐 Connect with me: 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/admsewwandi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malsha.dissanayaka.79) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malsha-dissanayaka-482852212) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/MalshaDissanayaka11) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Malsha-Dissanayaka) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MalshaDissanayaka) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16226158) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MalshaDissana) 
 
 # 💻 Tech Stack:
@@ -47,7 +47,7 @@ I’m currently an **IT Undergraduate at the University of Sri Jayewardenepura.*
 
 <br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=malsha11&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=malsha11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=malsha11&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)

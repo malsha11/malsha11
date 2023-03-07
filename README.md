@@ -1,6 +1,6 @@
 Welcome to my page!<br>
-<br>Hi there 👋, I am Malsha Dissanayaka! 😁 | A Passionate frontend Developer From Sri Lanka<br><br>
-# 💫 About Me:
+#<br>Hi there 👋, I am Malsha Dissanayaka! 😁 | A Passionate frontend Developer From Sri Lanka<br><br>
+## 💫 About Me:
 🧐 More About Me:<br><br>🔭 I am currently an IT Undergraduate at the University of Sri Jayewardenepura. As a student, I am a versatilist and quickly adapt to different hats (beginner-level Full Stack Web Developer 🌐, beginner-level App Developer 📱,  or  Designer 🎨), depending on my university project's requirements.<br>⚡ I take pride in my ability to create visually appealing and user-friendly interfaces that deliver an exceptional user experience. With a focus on front-end engineering and UI/UX design, I have gained expertise in cutting-edge front-end technologies such as Javascript, ReactJS, HTML, and CSS. <br>🌱 I'm currently learning UI/UX Design<br>📚  When I am free, I read IT-related articles. <br>💬 Ask me about anything New Technology Trends related, and I am happy to discuss it with you.<br>📫 Feel free to ping me on LinkedIn<br>📝 Checkout my resume<br>📄 Learn about my experiences, please check my portfolio<br>
 
 
